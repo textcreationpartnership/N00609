@@ -118,9 +118,10 @@
    <text xml:lang="eng">
       <body>
          <div type="journal">
-            <pb facs="tcp:000743_0000_0FAA535D71C001F8" rendition="simple:additions"/>
+            <pb facs="unknown:000743_0000_0FAA535D71C001F8"
+                rendition="simple:additions"/>
             <pb n="1"
-                facs="tcp:000743_0001_0FAA535E52E8CE18"
+                facs="unknown:000743_0001_0FAA535E52E8CE18"
                 rendition="simple:additions"/>
             <head>A JOURNAL Of what Passed in the Expedition of His Excellency Coll. <hi>Benjamin Fletcher,</hi> Captain General and Governour in Chief of the Province of <hi>New-York, &amp;c.</hi> To <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
@@ -182,7 +183,7 @@
                   <desc>〈◊〉</desc>
                </gap>.</p>
             <p>
-               <pb n="2" facs="tcp:000743_0002_0FAA535F1E5EBFF0"/>This day the Sachims of the other three Nations arrived, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+               <pb n="2" facs="unknown:000743_0002_0FAA535F1E5EBFF0"/>This day the Sachims of the other three Nations arrived, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> desired time to rest themselves till to morrow.</p>
             <p>The 29th, His Excellency called the Sachims together, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -248,7 +249,7 @@
                </gap> Summer, in order to renew the Covenant Chain, and to co<gap reason="illegible" resp="#PDCC" extent="2 letters">
                   <desc>••</desc>
                </gap>sult
-<pb n="3" facs="tcp:000743_0003_0FAA535FA944E930"/>
+<pb n="3" facs="unknown:000743_0003_0FAA535FA944E930"/>
 with the Brethren what is most proper, and may be most conducing to the common good &amp; safety of the whole House.</p>
             <p>
                <hi>Brethren,</hi> I do acquaint you from my most Illustrous Master the King of <hi>Great Brittain, France</hi> and <hi>Ireland,</hi> that he will always extend his gracious Protection to you, and a<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -347,7 +348,7 @@ with the Brethren what is most proper, and may be most conducing to the common g
                </table>
             </p>
             <list>
-               <pb n="4" facs="tcp:000743_0004_0FAA536219773210"/>
+               <pb n="4" facs="unknown:000743_0004_0FAA536219773210"/>
                <head>At a Meeting of the Sachims of the five Nations, at <hi>Albany,</hi> the <hi>1</hi>st of <hi>October, 1696.</hi>
                </head>
                <item>
@@ -382,7 +383,7 @@ with the Brethren what is most proper, and may be most conducing to the common g
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>he <hi>French</hi> and
-<pb n="5" facs="tcp:000743_0005_0FAA5362DAE05B18"/>
+<pb n="5" facs="unknown:000743_0005_0FAA5362DAE05B18"/>
                <hi>
                   <gap reason="illegible" resp="#PDCC" extent="2 letters">
                      <desc>••</desc>
@@ -442,7 +443,7 @@ with the Brethren what is most proper, and may be most conducing to the common g
                   <desc>•</desc>
                </gap> green. He laid down a bundle of six Beavers.</p>
             <list>
-               <pb n="6" facs="tcp:000743_0006_0FAA53643827B798"/>
+               <pb n="6" facs="unknown:000743_0006_0FAA53643827B798"/>
                <head>At a Meeting of the Sachims of the five Nations, at <hi>Albany,</hi> the <hi>2</hi>d of <hi>October, 1696.</hi>
                </head>
                <item>
@@ -511,7 +512,7 @@ with the Brethren what is most proper, and may be most conducing to the common g
                   <desc>〈◊〉</desc>
                </gap> here, we confirm it.</p>
             <p>
-               <pb n="7" facs="tcp:000743_0007_0FAA536505C28878"/>
+               <pb n="7" facs="unknown:000743_0007_0FAA536505C28878"/>
                <hi>Brother Cajenquirago,</hi> As the Tree is planted here, and con<g ref="char:EOLhyphen"/>firmed, so we make fast all the Roots and Branches of it, all the Brethren of the five Nations, and the Brethren of <hi>Virginia, Maryland, Pennsilvania,</hi> the <hi>Jarseys, New<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>York, Connectic<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -538,7 +539,7 @@ with the Brethren what is most proper, and may be most conducing to the common g
                   </gap>England.</hi> And I do <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> the five Nations of his Majesties Protection. I have
-<pb n="8" facs="tcp:000743_0008_0FAA5365E1F8AF90"/>
+<pb n="8" facs="unknown:000743_0008_0FAA5365E1F8AF90"/>
 provided for you some Victuals, and Drink to drink the King<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap> Health<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -597,7 +598,7 @@ provided for you some Victuals, and Drink to drink the King<gap reason="illegibl
                </gap> Master<g ref="char:punc">▪</g> the King of <hi>England, &amp;c.</hi> concerning the War that <gap reason="illegible" resp="#PDCC" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> between the five Nations, and the French and Indians of <hi>Canada</hi>
-               <pb n="9" facs="tcp:000743_0009_0FAA5366956E6788"/>
+               <pb n="9" facs="unknown:000743_0009_0FAA5366956E6788"/>
                <gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>nd that I should g<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -638,7 +639,7 @@ provided for you some Victuals, and Drink to drink the King<gap reason="illegibl
             <p>WE have been a long time in the Covenant Chain with the Brethren of <hi>New-York,</hi> in which afterwards, at <gap reason="illegible" resp="#PDCC" extent="1 span">
                   <desc>〈…〉</desc>
                </gap>, the Brethren of <hi>Virginia, Maryland, Pennsilvania,</hi>
-               <pb n="10" facs="tcp:000743_0010_0FAA53674CE83AD0"/>
+               <pb n="10" facs="unknown:000743_0010_0FAA53674CE83AD0"/>
 the <hi>Jarseys, Connecticut</hi> and <hi>New-England,</hi> came and linked them<gap reason="illegible" resp="#PDCC" extent="1 letter">
                   <desc>•</desc>
                </gap>selves<g ref="char:punc">▪</g> they liked the Chain of Peace<g ref="char:punc">▪</g> but where are the<gap reason="illegible" resp="#PDCC" extent="1 letter">
@@ -693,7 +694,7 @@ the <hi>Jarseys, Connecticut</hi> and <hi>New-England,</hi> came and linked them
                <g ref="char:punc">▪</g>
             </p>
             <p>
-               <pb n="11" facs="tcp:000743_0011_0FAA5367EFB5B6F0"/>The principal Sachim of the <hi>Oneydes,</hi> called, <hi>Oheee.</hi>
+               <pb n="11" facs="unknown:000743_0011_0FAA5367EFB5B6F0"/>The principal Sachim of the <hi>Oneydes,</hi> called, <hi>Oheee.</hi>
             </p>
             <p>The whole Number of Sachims answered, <hi>Heeeeee Hogh.</hi>
             </p>
